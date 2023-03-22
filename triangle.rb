@@ -1,6 +1,6 @@
 require 'ruby2d'
 
-set title: 'mothafuckin triangle', background: 'fuchsia'
+set title: 'clocklocking triangle', background: 'purple'
 
 tick = 0
 @x_speed = 0
